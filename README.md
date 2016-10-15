@@ -13,7 +13,13 @@ The idea behind this template is to explore the potential of having one creative
 * **970x66** - Super leaderboard 2
 * **728x90** - Leaderboard
 * **300x1050** - Portrait
-* **160x600** - Skyscraper
 * **300x600** - Halfpage
 * **300x250** - MPU
 * **320x50** - Adhesion banner
+
+
+1220
+970
+728
+320
+300
