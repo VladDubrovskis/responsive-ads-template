@@ -1,0 +1,22 @@
+{
+  "name": "responsive-ads-template",
+  "description": "A template for responsive ad creative that can be served in any slot",
+  "main": "index.js",
+  "authors": [
+    "Vlad Dubrovskis"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Responsive",
+    "advert",
+    "creative"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
